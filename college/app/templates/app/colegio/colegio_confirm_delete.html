@@ -1,0 +1,22 @@
+{% extends "../base.html" %}
+
+{% block content %}
+
+{% url 'app:colegio-list' as list_colegios %}
+
+<div>
+    <div>
+        <h1>Borrar Colegio</h1>
+
+        <p>¿Está seguro de eliminar el colegio?</p>
+        <h3>{{colegio.nombre}}</h3>
+        <form action="" method="post">
+            {% csrf_token %}
+            <input type="submit" value="Confirmar">
+            <input type="button" value="Cancelar">
+        </form>
+    </div>
+</div>
+
+
+{% endblock %}
