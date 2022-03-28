@@ -1,0 +1,36 @@
+- model: app.Prueba
+  pk: 1
+  fields: {curso: 1, nombre: 'Lenguaje', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 2
+  fields: {curso: 1, nombre: 'Matemática', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 3
+  fields: {curso: 2, nombre: 'Ciencias', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 4
+  fields: {curso: 2, nombre: 'Historia', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 5
+  fields: {curso: 3, nombre: 'Matemática', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 6
+  fields: {curso: 3, nombre: 'Arte', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 7
+  fields: {curso: 4, nombre: 'Inglés', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 8
+  fields: {curso: 4, nombre: 'Geografía', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 9
+  fields: {curso: 5, nombre: 'Lenguaje', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 10
+  fields: {curso: 5, nombre: 'Música', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 11
+  fields: {curso: 6, nombre: 'Historia', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}
+- model: app.Prueba
+  pk: 12
+  fields: {curso: 6, nombre: 'Tecnología', nota_maxima: 7, fecha_creacion: '2022-03-27T00:00:00+03:00'}

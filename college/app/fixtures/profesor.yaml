@@ -1,0 +1,15 @@
+- model: app.Profesor
+  pk: 1
+  fields: {rut: '16903093-6', nombre_completo: 'Juan Martinez', correo: 'jmartinez@capitaria.prueba.cl', telefono: '953685241'}
+- model: app.Profesor
+  pk: 2
+  fields: {rut: '11047521-7', nombre_completo: 'Laura Aros', correo: 'laros@capitaria.prueba.cl', telefono: '948141235'}
+- model: app.Profesor
+  pk: 3
+  fields: {rut: '17518492-9', nombre_completo: 'Patricio Gonzalez', correo: 'pgonzales@capitaria.prueba.cl', telefono: '963214578'}
+- model: app.Profesor
+  pk: 4
+  fields: {rut: '9889344-K', nombre_completo: 'Mauricio Villarica', correo: 'mvillarica@capitaria.prueba.cl', telefono: '963251425'}
+- model: app.Profesor
+  pk: 5
+  fields: {rut: '12502828-4', nombre_completo: 'Cristian Toledo', correo: 'ctoledo@capitaria.prueba.cl', telefono: '963251478'}

@@ -1,0 +1,54 @@
+- model: app.Nota
+  pk: 1
+  fields: {prueba: 1, alumno: 1, puntaje: 7}
+- model: app.Nota
+  pk: 2
+  fields: {prueba: 1, alumno: 2, puntaje: 6}
+- model: app.Nota
+  pk: 3
+  fields: {prueba: 1, alumno: 3, puntaje: 7}
+- model: app.Nota
+  pk: 4
+  fields: {prueba: 2, alumno: 1, puntaje: 6}
+- model: app.Nota
+  pk: 5
+  fields: {prueba: 2, alumno: 2, puntaje: 7}
+- model: app.Nota
+  pk: 6
+  fields: {prueba: 2, alumno: 3, puntaje: 6}
+- model: app.Nota
+  pk: 7
+  fields: {prueba: 3, alumno: 4, puntaje: 7}
+- model: app.Nota
+  pk: 8
+  fields: {prueba: 3, alumno: 5, puntaje: 6}
+- model: app.Nota
+  pk: 9
+  fields: {prueba: 3, alumno: 6, puntaje: 7}
+- model: app.Nota
+  pk: 10
+  fields: {prueba: 4, alumno: 4, puntaje: 6}
+- model: app.Nota
+  pk: 11
+  fields: {prueba: 4, alumno: 5, puntaje: 7}
+- model: app.Nota
+  pk: 12
+  fields: {prueba: 4, alumno: 6, puntaje: 6}
+- model: app.Nota
+  pk: 13
+  fields: {prueba: 5, alumno: 7, puntaje: 7}
+- model: app.Nota
+  pk: 14
+  fields: {prueba: 5, alumno: 8, puntaje: 6}
+- model: app.Nota
+  pk: 15
+  fields: {prueba: 5, alumno: 9, puntaje: 7}
+- model: app.Nota
+  pk: 16
+  fields: {prueba: 6, alumno: 7, puntaje: 6}
+- model: app.Nota
+  pk: 17
+  fields: {prueba: 6, alumno: 8, puntaje: 7}
+- model: app.Nota
+  pk: 18
+  fields: {prueba: 6, alumno: 9, puntaje: 6}

@@ -1,0 +1,18 @@
+- model: app.Curso
+  pk: 1
+  fields: {colegio: 1, profesor: 1, alumnos: [1, 2, 3], nombre: '1ro Básico', fecha_creacion: '2022-03-27 00:00:00'}
+- model: app.Curso
+  pk: 2
+  fields: {colegio: 1, profesor: 2, alumnos: [4, 5, 6], nombre: '2do Básico', fecha_creacion: '2022-03-27 00:00:00'}
+- model: app.Curso
+  pk: 3
+  fields: {colegio: 1, profesor: 3, alumnos: [7, 8, 9], nombre: '3ro Básico', fecha_creacion: '2022-03-27 00:00:00'}
+- model: app.Curso
+  pk: 4
+  fields: {colegio: 1, profesor: 4, alumnos: [10, 1, 2], nombre: '4to Básico', fecha_creacion: '2022-03-27 00:00:00'}
+- model: app.Curso
+  pk: 5
+  fields: {colegio: 1, profesor: 5, alumnos: [3, 6, 7], nombre: '5to Básico', fecha_creacion: '2022-03-27 00:00:00'}
+- model: app.Curso
+  pk: 6
+  fields: {colegio: 1, profesor: 1, alumnos: [8, 9, 4], nombre: '6to Básico', fecha_creacion: '2022-03-27 00:00:00'}

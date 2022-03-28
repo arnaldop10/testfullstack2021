@@ -1,0 +1,30 @@
+- model: app.Alumno
+  pk: 1
+  fields: {rut: '21977058-8', nombre_completo: 'Carlos Jara', correo: 'cjara@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 2
+  fields: {rut: '19350590-2', nombre_completo: 'Claudia Farias', correo: 'cfarias@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 3
+  fields: {rut: '20964833-4', nombre_completo: 'Maria Rojas', correo: 'mrojas@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 4
+  fields: {rut: '18399827-7', nombre_completo: 'Diego Muñoz', correo: 'dmunoz@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 5
+  fields: {rut: '23530037-0', nombre_completo: 'Laura Medina', correo: 'lmedina@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 6
+  fields: {rut: '18339824-5', nombre_completo: 'Macarena Pino', correo: 'mpino@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 7
+  fields: {rut: '21535485-7', nombre_completo: 'Vicente Carvajal', correo: 'vcarvajal@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 8
+  fields: {rut: '21936529-2', nombre_completo: 'Hector Bustos', correo: 'hbustos@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 9
+  fields: {rut: '19540852-1', nombre_completo: 'Manuel Cárdenas', correo: 'mcardenas@capitaria.prueba.cl'}
+- model: app.Alumno
+  pk: 10
+  fields: {rut: '22884172-2', nombre_completo: 'Bernardo Lagos', correo: 'blagos@capitaria.prueba.cl'}

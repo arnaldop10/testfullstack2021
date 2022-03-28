@@ -1,0 +1,9 @@
+- model: app.Colegio
+  pk: 1
+  fields: {nombre: 'Capitaria', direccion: 'Vitacura', director: 'Andrés Mora'}
+- model: app.Colegio
+  pk: 2
+  fields: {nombre: 'Capitaria 2', direccion: 'Providencia', director: 'Luis Ramos'}
+- model: app.Colegio
+  pk: 3
+  fields: {nombre: 'Capitaria 3', direccion: 'Las Condes', director: 'Maria Pérez'}
